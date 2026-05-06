@@ -1,7 +1,7 @@
 # edgeai_smarthome
 COS583 final project: simple smart home using edge AI
 
-This project uses an Artemis Redboard to run keyowrd classification, leveraging edge AI capabilties.
+This project uses an Artemis Redboard to run keyword classification, leveraging edge AI capabilties.
 The application actuates servo motors and LED lights for a miniscale 3D printed smart home. 
 
 ## Edge Impulse Model
