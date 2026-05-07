@@ -36,5 +36,5 @@ The labels we used were "garage_door", "window_light", "unknown", and "noise."
 |---|---|
 | `cos583_artemis/cos583_artemis.ino` | arduino code for hardware control |
 | `cos583_serial_sender.py` | stream laptop mic audio to Artemis over serial |
-| `v2SmartHome_inferencing/` | downloaded Edge Impulse Arduino inference library from curated dataset |
+| `v2SmartHome_inferencing/` | Edge Impulse Arduino inference library of curated dataset |
 
